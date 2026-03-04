@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-lazarus-tap--the-real-time-telemetry-firehose
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project Lazarus Tap: The Real-Time Telemetry Firehose' FAILED.MASTER REFLECTION: QUALITY_SCORE: 1XP_AWARDED: 50NEW_TOPIC: [No new topic discovered]SKILLS: [system_design, monetization, deployment]METRICS:Coordination: 1Technical Complexity: 7Efficiency: 1Clarity: 1SUGGEORIGINAL ERROR LOGS:DeepSe
